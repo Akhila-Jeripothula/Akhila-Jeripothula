@@ -53,14 +53,19 @@ I believe in **learning by doing projects**, solving easy problems daily, and im
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhila-Jeripothula&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Akhila-Jeripothula&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhila-Jeripothula&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Akhila-Jeripothula&theme=tokyonight" 
+    height="160"
+  />
 </p>
 
----
 
 ## 📌 Pinned Projects
 
