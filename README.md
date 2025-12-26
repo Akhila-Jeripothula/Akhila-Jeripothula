@@ -77,7 +77,6 @@ I believe in **learning by doing projects**, solving easy problems daily, and im
 
 ✨ *Consistency beats perfection. Learning every day!* ✨
 
-
 ## 🐍 Contribution Activity
 
 <p align="center">
