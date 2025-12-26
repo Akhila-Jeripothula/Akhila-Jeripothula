@@ -76,3 +76,10 @@ I believe in **learning by doing projects**, solving easy problems daily, and im
 ---
 
 ✨ *Consistency beats perfection. Learning every day!* ✨
+
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akhila-Jeripothula/snake-contribution/output/github-contribution-grid-snake.svg" />
+</p>
