@@ -54,15 +54,15 @@ I believe in **learning by doing projects**, solving easy problems daily, and im
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Akhila-Jeripothula&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=Akhila-Jeripothula&show_icons=true&include_all_commits=true&count_private=true&theme=default"
+    alt="GitHub stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Akhila-Jeripothula&theme=tokyonight" 
-    height="160"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Akhila-Jeripothula&theme=default"
+    alt="GitHub streak"
   />
 </p>
 
