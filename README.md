@@ -50,21 +50,7 @@ I believe in **learning by doing projects**, solving easy problems daily, and im
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Akhila-Jeripothula&show_icons=true&include_all_commits=true&count_private=true&theme=default"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Akhila-Jeripothula&theme=default"
-    alt="GitHub streak"
-  />
-</p>
 
 
 ## 📌 Pinned Projects
