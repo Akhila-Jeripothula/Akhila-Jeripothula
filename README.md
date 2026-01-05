@@ -37,7 +37,7 @@ I actively participate in hackathons, coding challenges, and self-driven learnin
 ## Connect With Me
 
 <p align="center">
-  <a href="akhilajeripothula075@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/akhilajeripothula/">
@@ -50,8 +50,4 @@ I actively participate in hackathons, coding challenges, and self-driven learnin
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github.com/Akhila-Jeripothula/Akhila-Jeripothula/blob/output/github-contribution-grid-snake.svg" />
-</p>
+>
