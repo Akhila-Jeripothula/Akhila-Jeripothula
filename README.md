@@ -21,7 +21,7 @@
 
 
 ## About Me
-I am Akhila Jeripothula, a Computer Science and Engineering student with a strong interest in Python, Artificial Intelligence, and Machine Learning.  
+I am Akhila Jeripothula, a Computer Science and Engineering student in BhojReddy Engineeirng College for women with a strong interest in Python, Artificial Intelligence, and Machine Learning.  
 I am building a solid foundation in software development with a focus on real-world, problem-driven projects.
 
 I have hands-on experience developing mini-projects, hackathon solutions, and AI-based systems, including healthcare and data-driven applications.  
